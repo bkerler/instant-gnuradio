@@ -47,13 +47,28 @@
     },
     {
       "type": "file",
+      "source": "assets/inspectrum.desktop",
+      "destination": ".local/share/applications/inspectrum.desktop"
+    },
+    {
+      "type": "file",
       "source": "assets/gnuradio-grc.desktop",
       "destination": "gnuradio-grc.desktop"
     },
     {
       "type": "file",
+      "source": "assets/53-adi-plutosdr-usb.rules",
+      "destination": "53-adi-plutosdr-usb.rules"
+    },
+    {
+      "type": "file",
       "source": "assets/gqrx-icon.png",
       "destination": "Pictures/gqrx-icon.png"
+    },
+    {
+      "type": "file",
+      "source": "assets/inspectrum-icon.png",
+      "destination": "Pictures/inspectrum-icon.png"
     },
     {
       "type": "file",
